@@ -1,0 +1,15 @@
+{
+  "name": "engine-efficiency-upgrade",
+  "version": "1.3.0",
+  "title": "Engine Efficiency Upgrade",
+  "author": "virtuNat",
+  "factorio_version": "2.0",
+  "dependencies": [
+    "base >= 2.0",
+    "? space-age >= 2.0",
+    "? um-standalone-foundry",
+    "? um-standalone-electromagnetic-plant",
+    "? Cerys-Moon-of-Fulgora",
+  ],
+  "description": "Adds Foundry and Electromagnetic Plant recipes for Engine Units and Electric Engine Units respectively."
+}
