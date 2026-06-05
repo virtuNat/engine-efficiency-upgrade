@@ -1,0 +1,7 @@
+{
+	"recipe":
+	[
+		["engine-pressing", "engine-unit"],
+		["electric-engine-magnetizing", "electric-engine-unit"]
+	]
+}
