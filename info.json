@@ -8,8 +8,7 @@
     "base >= 2.0",
     "? space-age >= 2.0",
     "? um-standalone-foundry",
-    "? um-standalone-electromagnetic-plant",
-    "? Cerys-Moon-of-Fulgora"
+    "? um-standalone-electromagnetic-plant"
   ],
   "description": "Adds Foundry and Electromagnetic Plant recipes for Engine Units and Electric Engine Units respectively."
 }

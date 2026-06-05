@@ -1,8 +1,8 @@
 ---------------------------------------------------------------------------------------------------
 Version: 1.3.0
 Date: 2026-06-05
-  Features:
-    - Add compatibility with Cerys
+  Changes:
+    - Reverted recipe separation, instead adding the new category to avoid being cobbled by larger overhauls and planet mods
 ---------------------------------------------------------------------------------------------------
 Version: 1.2.1
 Date: 2026-06-04
